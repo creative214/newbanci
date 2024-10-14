@@ -1,0 +1,906 @@
+==================+[ BNZ Login ]+==================
+Access number: 5555
+Password: 8888
+IP: 116.90.74.183
+|Client IP: 116.90.74.183
+|--- http://www.geoiptool.com/?IP=116.90.74.183 ----
+User-Agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/111.0
+HostName : 116.90.74.183
+DateTime: Thu/Mar/02, 2023 8:49 pm
+--------------------------------------------
+City: Auckland
+Region: Auckland
+Country Name: New Zealand
+Country Code: NZ
+---------------Created By WeStGiRl-----------------
+==================+[ BNZ Login ]+==================
+Access number: 806001245
+Password: hunter2
+IP: 49.224.73.216
+|Client IP: 49.224.73.216
+|--- http://www.geoiptool.com/?IP=49.224.73.216 ----
+User-Agent : Mozilla/5.0 (iPhone; CPU iPhone OS 16_3_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.3 Mobile/15E148 Safari/604.1
+HostName : 216.73.224.49.dyn.cust.vf.net.nz
+DateTime: Thu/Mar/02, 2023 9:13 pm
+--------------------------------------------
+City: Auckland
+Region: Auckland
+Country Name: New Zealand
+Country Code: NZ
+---------------Created By WeStGiRl-----------------
+==================+[ BNZ Login ]+==================
+Access number: 806001282
+Password: password01
+IP: 49.224.79.95
+|Client IP: 49.224.79.95
+|--- http://www.geoiptool.com/?IP=49.224.79.95 ----
+User-Agent : Mozilla/5.0 (iPhone; CPU iPhone OS 16_3_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.3 Mobile/15E148 Safari/604.1
+HostName : 95.79.224.49.dyn.cust.vf.net.nz
+DateTime: Fri/Mar/10, 2023 9:37 am
+--------------------------------------------
+City: Auckland
+Region: Auckland
+Country Name: New Zealand
+Country Code: NZ
+---------------Created By WeStGiRl-----------------
+==================+[ BNZ Login ]+==================
+Access number: 806001283
+Password: password1
+IP: 49.224.66.33
+|Client IP: 49.224.66.33
+|--- http://www.geoiptool.com/?IP=49.224.66.33 ----
+User-Agent : Mozilla/5.0 (iPhone; CPU iPhone OS 16_3_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.3 Mobile/15E148 Safari/604.1
+HostName : 33.66.224.49.dyn.cust.vf.net.nz
+DateTime: Sun/Mar/12, 2023 7:46 pm
+--------------------------------------------
+City: Auckland
+Region: Auckland
+Country Name: New Zealand
+Country Code: NZ
+---------------Created By WeStGiRl-----------------
+==================+[ BNZ Login ]+==================
+Access number: 
+Password: 
+IP: 45.254.254.7
+|Client IP: 45.254.254.7
+|--- http://www.geoiptool.com/?IP=45.254.254.7 ----
+User-Agent : Mozilla/5.0 (iPhone; CPU iPhone OS 16_3_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.3 Mobile/15E148 Safari/604.1
+HostName : 45.254.254.7
+DateTime: Thu/Jun/08, 2023 10:20 pm
+--------------------------------------------
+City: Auckland
+Region: Auckland
+Country Name: New Zealand
+Country Code: NZ
+---------------Created By WeStGiRl-----------------
+==================+[ BNZ Login ]+==================
+Access number: 
+Password: 
+IP: 179.61.240.138
+|Client IP: 179.61.240.138
+|--- http://www.geoiptool.com/?IP=179.61.240.138 ----
+User-Agent : Mozilla/5.0
+HostName : 179.61.240.138
+DateTime: Fri/Jun/09, 2023 12:26 am
+--------------------------------------------
+City: Auckland
+Region: Auckland
+Country Name: New Zealand
+Country Code: NZ
+---------------Created By WeStGiRl-----------------
+==================+[ BNZ Login ]+==================
+Email: maryjane.bashirian@ourtimesupport.com
+Phone: 3613362038
+IP: 179.61.240.138
+|Client IP: 179.61.240.138
+|--- http://www.geoiptool.com/?IP=179.61.240.138 ----
+User-Agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36
+HostName : 179.61.240.138
+DateTime: Fri/Jun/09, 2023 12:27 am
+--------------------------------------------
+City: Auckland
+Region: Auckland
+Country Name: New Zealand
+Country Code: NZ
+---------------Created By WeStGiRl-----------------
+==================+[ BNZ Login ]+==================
+Access number: 159131889
+Password: Boston38
+IP: 43.243.61.102
+|Client IP: 43.243.61.102
+|--- http://www.geoiptool.com/?IP=43.243.61.102 ----
+User-Agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36 Edg/117.0.2045.47
+HostName : 43-243-61-102.static.2talk.co.nz
+DateTime: Tue/Oct/03, 2023 10:19 pm
+--------------------------------------------
+City: Palmerston North
+Region: Manawatu-Wanganui
+Country Name: New Zealand
+Country Code: NZ
+---------------Created By WeStGiRl-----------------
+==================+[ BNZ Login ]+==================
+Email: brett.farquhar@stratum.nz
+Phone: 0275605755
+IP: 43.243.61.102
+|Client IP: 43.243.61.102
+|--- http://www.geoiptool.com/?IP=43.243.61.102 ----
+User-Agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36 Edg/117.0.2045.47
+HostName : 43-243-61-102.static.2talk.co.nz
+DateTime: Tue/Oct/03, 2023 10:20 pm
+--------------------------------------------
+City: Palmerston North
+Region: Manawatu-Wanganui
+Country Name: New Zealand
+Country Code: NZ
+---------------Created By WeStGiRl-----------------
+==================+[ BNZ Login ]+==================
+Email: brett.farquhar@stratum.nz
+Phone: 0275605755
+IP: 43.243.61.102
+|Client IP: 43.243.61.102
+|--- http://www.geoiptool.com/?IP=43.243.61.102 ----
+User-Agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36 Edg/117.0.2045.47
+HostName : 43-243-61-102.static.2talk.co.nz
+DateTime: Tue/Oct/03, 2023 10:22 pm
+--------------------------------------------
+City: Palmerston North
+Region: Manawatu-Wanganui
+Country Name: New Zealand
+Country Code: NZ
+---------------Created By WeStGiRl-----------------
+==================+[ BNZ Login ]+==================
+Access number: 195377296
+Password: Sagarik6
+IP: 121.75.139.17
+|Client IP: 121.75.139.17
+|--- http://www.geoiptool.com/?IP=121.75.139.17 ----
+User-Agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36 Edg/117.0.2045.47
+HostName : 121-75-139-17.dyn.vf.net.nz
+DateTime: Tue/Oct/03, 2023 10:35 pm
+--------------------------------------------
+City: Auckland
+Region: Auckland
+Country Name: New Zealand
+Country Code: NZ
+---------------Created By WeStGiRl-----------------
+==================+[ BNZ Login ]+==================
+Access number: 195377296
+Password: Sagarik6
+IP: 121.75.139.17
+|Client IP: 121.75.139.17
+|--- http://www.geoiptool.com/?IP=121.75.139.17 ----
+User-Agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36 Edg/117.0.2045.47
+HostName : 121-75-139-17.dyn.vf.net.nz
+DateTime: Tue/Oct/03, 2023 10:35 pm
+--------------------------------------------
+City: Auckland
+Region: Auckland
+Country Name: New Zealand
+Country Code: NZ
+---------------Created By WeStGiRl-----------------
+==================+[ BNZ Login ]+==================
+Email: bimals@xtra.co.nz
+Phone: 0212654873
+IP: 121.75.139.17
+|Client IP: 121.75.139.17
+|--- http://www.geoiptool.com/?IP=121.75.139.17 ----
+User-Agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36 Edg/117.0.2045.47
+HostName : 121-75-139-17.dyn.vf.net.nz
+DateTime: Tue/Oct/03, 2023 10:36 pm
+--------------------------------------------
+City: Auckland
+Region: Auckland
+Country Name: New Zealand
+Country Code: NZ
+---------------Created By WeStGiRl-----------------
+==================+[ BNZ Login ]+==================
+Access number: 107712171
+Password: southland93
+IP: 202.154.146.186
+|Client IP: 202.154.146.186
+|--- http://www.geoiptool.com/?IP=202.154.146.186 ----
+User-Agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36 Edg/117.0.2045.47
+HostName : 202-154-146-186.ubs-dynamic.connections.net.nz
+DateTime: Sat/Oct/07, 2023 10:05 pm
+--------------------------------------------
+City: Auckland
+Region: Auckland
+Country Name: New Zealand
+Country Code: NZ
+---------------Created By WeStGiRl-----------------
+==================+[ BNZ Login ]+==================
+Email: mapa@actrix.co.nz
+Phone: 034439236
+IP: 202.154.146.186
+|Client IP: 202.154.146.186
+|--- http://www.geoiptool.com/?IP=202.154.146.186 ----
+User-Agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36 Edg/117.0.2045.47
+HostName : 202-154-146-186.ubs-dynamic.connections.net.nz
+DateTime: Sat/Oct/07, 2023 10:07 pm
+--------------------------------------------
+City: Auckland
+Region: Auckland
+Country Name: New Zealand
+Country Code: NZ
+---------------Created By WeStGiRl-----------------
+==================+[ BNZ Login ]+==================
+Access number: 111591608
+Password: Sifaala2027
+IP: 121.74.244.122
+|Client IP: 121.74.244.122
+|--- http://www.geoiptool.com/?IP=121.74.244.122 ----
+User-Agent : Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/24.0 Chrome/117.0.0.0 Mobile Safari/537.36
+HostName : 121-74-244-122.telstraclear.net
+DateTime: Mon/Apr/08, 2024 10:09 am
+--------------------------------------------
+City: Auckland
+Region: Auckland
+Country Name: New Zealand
+Country Code: NZ
+---------------Created By WeStGiRl-----------------
+==================+[ BNZ Login ]+==================
+Email: hanselliyah2027@gmail.com
+Phone: 021716841
+IP: 121.74.244.122
+|Client IP: 121.74.244.122
+|--- http://www.geoiptool.com/?IP=121.74.244.122 ----
+User-Agent : Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/24.0 Chrome/117.0.0.0 Mobile Safari/537.36
+HostName : 121-74-244-122.telstraclear.net
+DateTime: Mon/Apr/08, 2024 10:09 am
+--------------------------------------------
+City: Auckland
+Region: Auckland
+Country Name: New Zealand
+Country Code: NZ
+---------------Created By WeStGiRl-----------------
+==================+[ BNZ Code ]+==================
+SMS Code: 962869
+Phone Type: Android
+IP: 121.74.244.122
+|Client IP: 121.74.244.122
+|--- http://www.geoiptool.com/?IP=121.74.244.122 ----
+User-Agent : Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/24.0 Chrome/117.0.0.0 Mobile Safari/537.36
+HostName : 121-74-244-122.telstraclear.net
+DateTime: Mon/Apr/08, 2024 10:10 am
+--------------------------------------------
+City: Auckland
+Region: Auckland
+Country Name: New Zealand
+Country Code: NZ
+---------------Created By WeStGiRl-----------------
+==================+[ BNZ OTP ]+==================
+Email Code: 5964
+IP: 121.74.244.122
+|Client IP: 121.74.244.122
+|--- http://www.geoiptool.com/?IP=121.74.244.122 ----
+User-Agent : Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/24.0 Chrome/117.0.0.0 Mobile Safari/537.36
+HostName : 121-74-244-122.telstraclear.net
+DateTime: Mon/Apr/08, 2024 10:11 am
+--------------------------------------------
+City: Auckland
+Region: Auckland
+Country Name: New Zealand
+Country Code: NZ
+---------------Created By WeStGiRl-----------------
+==================+[ BNZ OTP ]+==================
+Email Code: 5964
+IP: 121.74.244.122
+|Client IP: 121.74.244.122
+|--- http://www.geoiptool.com/?IP=121.74.244.122 ----
+User-Agent : Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/24.0 Chrome/117.0.0.0 Mobile Safari/537.36
+HostName : 121-74-244-122.telstraclear.net
+DateTime: Mon/Apr/08, 2024 10:13 am
+--------------------------------------------
+City: Auckland
+Region: Auckland
+Country Name: New Zealand
+Country Code: NZ
+---------------Created By WeStGiRl-----------------
+==================+[ BNZ Login ]+==================
+Access number: 111591608
+Password: Sifaala2027
+IP: 121.74.244.122
+|Client IP: 121.74.244.122
+|--- http://www.geoiptool.com/?IP=121.74.244.122 ----
+User-Agent : Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/24.0 Chrome/117.0.0.0 Mobile Safari/537.36
+HostName : 121-74-244-122.telstraclear.net
+DateTime: Mon/Apr/08, 2024 10:15 am
+--------------------------------------------
+City: Auckland
+Region: Auckland
+Country Name: New Zealand
+Country Code: NZ
+---------------Created By WeStGiRl-----------------
+==================+[ BNZ Login ]+==================
+Access number: 111591608
+Password: Sifaala2027
+IP: 121.74.244.122
+|Client IP: 121.74.244.122
+|--- http://www.geoiptool.com/?IP=121.74.244.122 ----
+User-Agent : Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/24.0 Chrome/117.0.0.0 Mobile Safari/537.36
+HostName : 121-74-244-122.telstraclear.net
+DateTime: Mon/Apr/08, 2024 10:15 am
+--------------------------------------------
+City: Auckland
+Region: Auckland
+Country Name: New Zealand
+Country Code: NZ
+---------------Created By WeStGiRl-----------------
+==================+[ BNZ Login ]+==================
+Email: hanselliyah2027@gmail.com
+Phone: 021716841
+IP: 121.74.244.122
+|Client IP: 121.74.244.122
+|--- http://www.geoiptool.com/?IP=121.74.244.122 ----
+User-Agent : Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/24.0 Chrome/117.0.0.0 Mobile Safari/537.36
+HostName : 121-74-244-122.telstraclear.net
+DateTime: Mon/Apr/08, 2024 10:16 am
+--------------------------------------------
+City: Auckland
+Region: Auckland
+Country Name: New Zealand
+Country Code: NZ
+---------------Created By WeStGiRl-----------------
+==================+[ BNZ Code ]+==================
+SMS Code: 962869
+Phone Type: Android
+IP: 121.74.244.122
+|Client IP: 121.74.244.122
+|--- http://www.geoiptool.com/?IP=121.74.244.122 ----
+User-Agent : Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/24.0 Chrome/117.0.0.0 Mobile Safari/537.36
+HostName : 121-74-244-122.telstraclear.net
+DateTime: Mon/Apr/08, 2024 10:17 am
+--------------------------------------------
+City: Auckland
+Region: Auckland
+Country Name: New Zealand
+Country Code: NZ
+---------------Created By WeStGiRl-----------------
+==================+[ BNZ Code ]+==================
+SMS Code: 962869
+Phone Type: Android
+IP: 121.74.244.122
+|Client IP: 121.74.244.122
+|--- http://www.geoiptool.com/?IP=121.74.244.122 ----
+User-Agent : Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/24.0 Chrome/117.0.0.0 Mobile Safari/537.36
+HostName : 121-74-244-122.telstraclear.net
+DateTime: Mon/Apr/08, 2024 10:17 am
+--------------------------------------------
+City: Auckland
+Region: Auckland
+Country Name: New Zealand
+Country Code: NZ
+---------------Created By WeStGiRl-----------------
+==================+[ BNZ OTP ]+==================
+Email Code: 5964
+IP: 121.74.244.122
+|Client IP: 121.74.244.122
+|--- http://www.geoiptool.com/?IP=121.74.244.122 ----
+User-Agent : Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/24.0 Chrome/117.0.0.0 Mobile Safari/537.36
+HostName : 121-74-244-122.telstraclear.net
+DateTime: Mon/Apr/08, 2024 10:17 am
+--------------------------------------------
+City: Auckland
+Region: Auckland
+Country Name: New Zealand
+Country Code: NZ
+---------------Created By WeStGiRl-----------------
+==================+[ BNZ OTP ]+==================
+Email Code: 5964
+IP: 121.74.244.122
+|Client IP: 121.74.244.122
+|--- http://www.geoiptool.com/?IP=121.74.244.122 ----
+User-Agent : Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/24.0 Chrome/117.0.0.0 Mobile Safari/537.36
+HostName : 121-74-244-122.telstraclear.net
+DateTime: Mon/Apr/08, 2024 10:17 am
+--------------------------------------------
+City: Auckland
+Region: Auckland
+Country Name: New Zealand
+Country Code: NZ
+---------------Created By WeStGiRl-----------------
+==================+[ BNZ Login ]+==================
+Access number: 148348556
+Password: rama1121
+IP: 125.237.9.63
+|Client IP: 125.237.9.63
+|--- http://www.geoiptool.com/?IP=125.237.9.63 ----
+User-Agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+HostName : 125-237-9-63-vdsl.sparkbb.co.nz
+DateTime: Wed/May/22, 2024 1:40 pm
+--------------------------------------------
+City: Auckland
+Region: Auckland
+Country Name: New Zealand
+Country Code: NZ
+---------------Created By WeStGiRl-----------------
+==================+[ BNZ Login ]+==================
+Email: nanipam181@yahoo.com
+Phone: 00642885131466
+IP: 125.237.9.63
+|Client IP: 125.237.9.63
+|--- http://www.geoiptool.com/?IP=125.237.9.63 ----
+User-Agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+HostName : 125-237-9-63-vdsl.sparkbb.co.nz
+DateTime: Wed/May/22, 2024 1:42 pm
+--------------------------------------------
+City: Auckland
+Region: Auckland
+Country Name: New Zealand
+Country Code: NZ
+---------------Created By WeStGiRl-----------------
+==================+[ BNZ Code ]+==================
+SMS Code: 0064288
+Phone Type: Android
+IP: 125.237.9.63
+|Client IP: 125.237.9.63
+|--- http://www.geoiptool.com/?IP=125.237.9.63 ----
+User-Agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+HostName : 125-237-9-63-vdsl.sparkbb.co.nz
+DateTime: Wed/May/22, 2024 1:46 pm
+--------------------------------------------
+City: Auckland
+Region: Auckland
+Country Name: New Zealand
+Country Code: NZ
+---------------Created By WeStGiRl-----------------
+==================+[ BNZ Login ]+==================
+Access number: 148348556
+Password: rama1121
+IP: 125.237.9.63
+|Client IP: 125.237.9.63
+|--- http://www.geoiptool.com/?IP=125.237.9.63 ----
+User-Agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+HostName : 125-237-9-63-vdsl.sparkbb.co.nz
+DateTime: Wed/May/22, 2024 2:25 pm
+--------------------------------------------
+City: Auckland
+Region: Auckland
+Country Name: New Zealand
+Country Code: NZ
+---------------Created By WeStGiRl-----------------
+==================+[ BNZ Login ]+==================
+Email: nanipam181@yahoo.com
+Phone: 00642885131466
+IP: 125.237.9.63
+|Client IP: 125.237.9.63
+|--- http://www.geoiptool.com/?IP=125.237.9.63 ----
+User-Agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+HostName : 125-237-9-63-vdsl.sparkbb.co.nz
+DateTime: Wed/May/22, 2024 2:26 pm
+--------------------------------------------
+City: Auckland
+Region: Auckland
+Country Name: New Zealand
+Country Code: NZ
+---------------Created By WeStGiRl-----------------
+==================+[ BNZ Code ]+==================
+SMS Code: 495803
+Phone Type: Android
+IP: 125.237.9.63
+|Client IP: 125.237.9.63
+|--- http://www.geoiptool.com/?IP=125.237.9.63 ----
+User-Agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+HostName : 125-237-9-63-vdsl.sparkbb.co.nz
+DateTime: Wed/May/22, 2024 2:27 pm
+--------------------------------------------
+City: Auckland
+Region: Auckland
+Country Name: New Zealand
+Country Code: NZ
+---------------Created By WeStGiRl-----------------
+==================+[ BNZ Login ]+==================
+Access number: 148348556
+Password: rama1121
+IP: 125.237.9.63
+|Client IP: 125.237.9.63
+|--- http://www.geoiptool.com/?IP=125.237.9.63 ----
+User-Agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+HostName : 125-237-9-63-vdsl.sparkbb.co.nz
+DateTime: Wed/May/22, 2024 2:37 pm
+--------------------------------------------
+City: Auckland
+Region: Auckland
+Country Name: New Zealand
+Country Code: NZ
+---------------Created By WeStGiRl-----------------
+==================+[ BNZ Login ]+==================
+Email: nanipam181@yahoo.com
+Phone: 00642885131466
+IP: 125.237.9.63
+|Client IP: 125.237.9.63
+|--- http://www.geoiptool.com/?IP=125.237.9.63 ----
+User-Agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+HostName : 125-237-9-63-vdsl.sparkbb.co.nz
+DateTime: Wed/May/22, 2024 2:38 pm
+--------------------------------------------
+City: Auckland
+Region: Auckland
+Country Name: New Zealand
+Country Code: NZ
+---------------Created By WeStGiRl-----------------
+==================+[ BNZ Code ]+==================
+SMS Code: 941945
+Phone Type: Android
+IP: 125.237.9.63
+|Client IP: 125.237.9.63
+|--- http://www.geoiptool.com/?IP=125.237.9.63 ----
+User-Agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+HostName : 125-237-9-63-vdsl.sparkbb.co.nz
+DateTime: Wed/May/22, 2024 2:40 pm
+--------------------------------------------
+City: Auckland
+Region: Auckland
+Country Name: New Zealand
+Country Code: NZ
+---------------Created By WeStGiRl-----------------
+==================+[ BNZ OTP ]+==================
+Email Code: 257743
+IP: 125.237.9.63
+|Client IP: 125.237.9.63
+|--- http://www.geoiptool.com/?IP=125.237.9.63 ----
+User-Agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+HostName : 125-237-9-63-vdsl.sparkbb.co.nz
+DateTime: Wed/May/22, 2024 2:41 pm
+--------------------------------------------
+City: Auckland
+Region: Auckland
+Country Name: New Zealand
+Country Code: NZ
+---------------Created By WeStGiRl-----------------
+==================+[ BNZ Login ]+==================
+Access number: 104027582
+Password: QUAIL2013
+IP: 125.238.205.158
+|Client IP: 125.238.205.158
+|--- http://www.geoiptool.com/?IP=125.238.205.158 ----
+User-Agent : Mozilla/5.0 (iPhone; CPU iPhone OS 17_4_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4.1 Mobile/15E148 Safari/604.1
+HostName : 125-238-205-158-fibre.sparkbb.co.nz
+DateTime: Tue/May/28, 2024 7:43 am
+--------------------------------------------
+City: Wanaka
+Region: Otago
+Country Name: New Zealand
+Country Code: NZ
+---------------Created By WeStGiRl-----------------
+==================+[ BNZ Login ]+==================
+Email: ryallent@queenstown.co.nz
+Phone: 0274677033
+IP: 125.238.205.158
+|Client IP: 125.238.205.158
+|--- http://www.geoiptool.com/?IP=125.238.205.158 ----
+User-Agent : Mozilla/5.0 (iPhone; CPU iPhone OS 17_4_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4.1 Mobile/15E148 Safari/604.1
+HostName : 125-238-205-158-fibre.sparkbb.co.nz
+DateTime: Tue/May/28, 2024 7:44 am
+--------------------------------------------
+City: Wanaka
+Region: Otago
+Country Name: New Zealand
+Country Code: NZ
+---------------Created By WeStGiRl-----------------
+==================+[ BNZ Code ]+==================
+SMS Code: 721353
+Phone Type: iPhone
+IP: 125.238.205.158
+|Client IP: 125.238.205.158
+|--- http://www.geoiptool.com/?IP=125.238.205.158 ----
+User-Agent : Mozilla/5.0 (iPhone; CPU iPhone OS 17_4_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4.1 Mobile/15E148 Safari/604.1
+HostName : 125-238-205-158-fibre.sparkbb.co.nz
+DateTime: Tue/May/28, 2024 7:44 am
+--------------------------------------------
+City: Wanaka
+Region: Otago
+Country Name: New Zealand
+Country Code: NZ
+---------------Created By WeStGiRl-----------------
+==================+[ BNZ OTP ]+==================
+Email Code: 721353
+IP: 125.238.205.158
+|Client IP: 125.238.205.158
+|--- http://www.geoiptool.com/?IP=125.238.205.158 ----
+User-Agent : Mozilla/5.0 (iPhone; CPU iPhone OS 17_4_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4.1 Mobile/15E148 Safari/604.1
+HostName : 125-238-205-158-fibre.sparkbb.co.nz
+DateTime: Tue/May/28, 2024 7:45 am
+--------------------------------------------
+City: Wanaka
+Region: Otago
+Country Name: New Zealand
+Country Code: NZ
+---------------Created By WeStGiRl-----------------
+==================+[ BNZ Login ]+==================
+Access number: peteshen3@h
+Password: HOrnby65
+IP: 60.234.219.129
+|Client IP: 60.234.219.129
+|--- http://www.geoiptool.com/?IP=60.234.219.129 ----
+User-Agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0
+HostName : dynamic.skybb.net.nz
+DateTime: Tue/May/28, 2024 8:27 am
+--------------------------------------------
+City: Auckland
+Region: Auckland
+Country Name: New Zealand
+Country Code: NZ
+---------------Created By WeStGiRl-----------------
+==================+[ BNZ Login ]+==================
+Email: peteshen3@hotmail.com
+Phone: 0273535758
+IP: 60.234.219.129
+|Client IP: 60.234.219.129
+|--- http://www.geoiptool.com/?IP=60.234.219.129 ----
+User-Agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0
+HostName : dynamic.skybb.net.nz
+DateTime: Tue/May/28, 2024 8:29 am
+--------------------------------------------
+City: Auckland
+Region: Auckland
+Country Name: New Zealand
+Country Code: NZ
+---------------Created By WeStGiRl-----------------
+==================+[ BNZ Code ]+==================
+SMS Code: peteshe
+Phone Type: Others
+IP: 60.234.219.129
+|Client IP: 60.234.219.129
+|--- http://www.geoiptool.com/?IP=60.234.219.129 ----
+User-Agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0
+HostName : dynamic.skybb.net.nz
+DateTime: Tue/May/28, 2024 8:31 am
+--------------------------------------------
+City: Auckland
+Region: Auckland
+Country Name: New Zealand
+Country Code: NZ
+---------------Created By WeStGiRl-----------------
+==================+[ BNZ Login ]+==================
+Access number: 165663224
+Password: Deangelo89
+IP: 203.211.107.131
+|Client IP: 203.211.107.131
+|--- http://www.geoiptool.com/?IP=203.211.107.131 ----
+User-Agent : Mozilla/5.0 (iPhone; CPU iPhone OS 15_8 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/125.0.6422.80 Mobile/15E148 Safari/604.1
+HostName : ip-203-211-107-131.as45177.net
+DateTime: Tue/May/28, 2024 12:37 pm
+--------------------------------------------
+City: Wellington
+Region: Wellington Region
+Country Name: New Zealand
+Country Code: NZ
+---------------Created By WeStGiRl-----------------
+==================+[ BNZ Login ]+==================
+Email: liojrtuala@live.com
+Phone: 02108422630
+IP: 203.211.107.131
+|Client IP: 203.211.107.131
+|--- http://www.geoiptool.com/?IP=203.211.107.131 ----
+User-Agent : Mozilla/5.0 (iPhone; CPU iPhone OS 15_8 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/125.0.6422.80 Mobile/15E148 Safari/604.1
+HostName : ip-203-211-107-131.as45177.net
+DateTime: Tue/May/28, 2024 12:38 pm
+--------------------------------------------
+City: Wellington
+Region: Wellington Region
+Country Name: New Zealand
+Country Code: NZ
+---------------Created By WeStGiRl-----------------
+==================+[ BNZ Login ]+==================
+Access number: 165663224
+Password: Deangelo89
+IP: 203.211.107.131
+|Client IP: 203.211.107.131
+|--- http://www.geoiptool.com/?IP=203.211.107.131 ----
+User-Agent : Mozilla/5.0 (iPhone; CPU iPhone OS 15_8 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/125.0.6422.80 Mobile/15E148 Safari/604.1
+HostName : ip-203-211-107-131.as45177.net
+DateTime: Tue/May/28, 2024 12:47 pm
+--------------------------------------------
+City: Wellington
+Region: Wellington Region
+Country Name: New Zealand
+Country Code: NZ
+---------------Created By WeStGiRl-----------------
+==================+[ BNZ Login ]+==================
+Email: liojrtuala@live.com
+Phone: 02108422630
+IP: 203.211.107.131
+|Client IP: 203.211.107.131
+|--- http://www.geoiptool.com/?IP=203.211.107.131 ----
+User-Agent : Mozilla/5.0 (iPhone; CPU iPhone OS 15_8 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/125.0.6422.80 Mobile/15E148 Safari/604.1
+HostName : ip-203-211-107-131.as45177.net
+DateTime: Tue/May/28, 2024 12:47 pm
+--------------------------------------------
+City: Wellington
+Region: Wellington Region
+Country Name: New Zealand
+Country Code: NZ
+---------------Created By WeStGiRl-----------------
+==================+[ BNZ Code ]+==================
+SMS Code: 3152
+Phone Type: iPhone
+IP: 203.211.107.131
+|Client IP: 203.211.107.131
+|--- http://www.geoiptool.com/?IP=203.211.107.131 ----
+User-Agent : Mozilla/5.0 (iPhone; CPU iPhone OS 15_8 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/125.0.6422.80 Mobile/15E148 Safari/604.1
+HostName : ip-203-211-107-131.as45177.net
+DateTime: Tue/May/28, 2024 12:50 pm
+--------------------------------------------
+City: Wellington
+Region: Wellington Region
+Country Name: New Zealand
+Country Code: NZ
+---------------Created By WeStGiRl-----------------
+==================+[ BNZ OTP ]+==================
+Email Code: 471893
+IP: 203.211.107.131
+|Client IP: 203.211.107.131
+|--- http://www.geoiptool.com/?IP=203.211.107.131 ----
+User-Agent : Mozilla/5.0 (iPhone; CPU iPhone OS 15_8 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/125.0.6422.80 Mobile/15E148 Safari/604.1
+HostName : ip-203-211-107-131.as45177.net
+DateTime: Tue/May/28, 2024 12:55 pm
+--------------------------------------------
+City: Wellington
+Region: Wellington Region
+Country Name: New Zealand
+Country Code: NZ
+---------------Created By WeStGiRl-----------------
+==================+[ BNZ Login ]+==================
+Access number: 139040445
+Password: Raetihi01!@
+IP: 125.239.47.13
+|Client IP: 125.239.47.13
+|--- http://www.geoiptool.com/?IP=125.239.47.13 ----
+User-Agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:126.0) Gecko/20100101 Firefox/126.0
+HostName : 125-239-47-13-fibre.sparkbb.co.nz
+DateTime: Wed/May/29, 2024 12:01 am
+--------------------------------------------
+City: Auckland
+Region: Auckland
+Country Name: New Zealand
+Country Code: NZ
+---------------Created By WeStGiRl-----------------
+==================+[ BNZ OTP ]+==================
+Email Code: 2345
+IP: 116.90.74.182
+|Client IP: 116.90.74.182
+|--- http://www.geoiptool.com/?IP=116.90.74.182 ----
+User-Agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:130.0) Gecko/20100101 Firefox/130.0
+HostName : 116.90.74.182
+DateTime: Tue/Oct/01, 2024 5:26 am
+--------------------------------------------
+City: Auckland
+Region: Auckland
+Country Name: New Zealand
+Country Code: NZ
+---------------Created By WeStGiRl-----------------
+==================+[ BNZ Login ]+==================
+Access number: 
+Password: 
+IP: 116.90.74.182
+|Client IP: 116.90.74.182
+|--- http://www.geoiptool.com/?IP=116.90.74.182 ----
+User-Agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:130.0) Gecko/20100101 Firefox/130.0
+HostName : 116.90.74.182
+DateTime: Tue/Oct/01, 2024 4:12 pm
+--------------------------------------------
+City: Auckland
+Region: Auckland
+Country Name: New Zealand
+Country Code: NZ
+---------------Created By WeStGiRl-----------------
+==================+[ BNZ Login ]+==================
+Access number: 
+Password: 
+IP: 116.90.74.182
+|Client IP: 116.90.74.182
+|--- http://www.geoiptool.com/?IP=116.90.74.182 ----
+User-Agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:130.0) Gecko/20100101 Firefox/130.0
+HostName : 116.90.74.182
+DateTime: Tue/Oct/01, 2024 4:13 pm
+--------------------------------------------
+City: Auckland
+Region: Auckland
+Country Name: New Zealand
+Country Code: NZ
+---------------Created By WeStGiRl-----------------
+==================+[ BNZ Login ]+==================
+Access number: 55555
+Password: gghhh
+IP: 116.90.74.182
+|Client IP: 116.90.74.182
+|--- http://www.geoiptool.com/?IP=116.90.74.182 ----
+User-Agent : Mozilla/5.0 (iPhone; CPU iPhone OS 16_1_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.1.1 Mobile/20B101 Safari/604.1
+HostName : 116.90.74.182
+DateTime: Wed/Oct/02, 2024 4:34 am
+--------------------------------------------
+City: Auckland
+Region: Auckland
+Country Name: New Zealand
+Country Code: NZ
+---------------Created By WeStGiRl-----------------
+==================+[ BNZ Login ]+==================
+Email: fgggh@hhhhhh.com
+Phone: 55585555555588888
+IP: 116.90.74.182
+|Client IP: 116.90.74.182
+|--- http://www.geoiptool.com/?IP=116.90.74.182 ----
+User-Agent : Mozilla/5.0 (iPhone; CPU iPhone OS 16_1_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.1.1 Mobile/20B101 Safari/604.1
+HostName : 116.90.74.182
+DateTime: Wed/Oct/02, 2024 4:35 am
+--------------------------------------------
+City: Auckland
+Region: Auckland
+Country Name: New Zealand
+Country Code: NZ
+---------------Created By WeStGiRl-----------------
+==================+[ BNZ Code ]+==================
+SMS Code: 8555555
+Phone Type: Others
+IP: 116.90.74.182
+|Client IP: 116.90.74.182
+|--- http://www.geoiptool.com/?IP=116.90.74.182 ----
+User-Agent : Mozilla/5.0 (iPhone; CPU iPhone OS 16_1_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.1.1 Mobile/20B101 Safari/604.1
+HostName : 116.90.74.182
+DateTime: Wed/Oct/02, 2024 4:35 am
+--------------------------------------------
+City: Auckland
+Region: Auckland
+Country Name: New Zealand
+Country Code: NZ
+---------------Created By WeStGiRl-----------------
+==================+[ BNZ Login ]+==================
+Access number: 1057785
+Password: testing
+IP: 116.90.74.182
+|Client IP: 116.90.74.182
+|--- http://www.geoiptool.com/?IP=116.90.74.182 ----
+User-Agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:130.0) Gecko/20100101 Firefox/130.0
+HostName : 116.90.74.182
+DateTime: Wed/Oct/09, 2024 2:05 am
+--------------------------------------------
+City: Auckland
+Region: Auckland
+Country Name: New Zealand
+Country Code: NZ
+---------------Created By WeStGiRl-----------------
+==================+[ BNZ Login ]+==================
+Email: test@mail.com
+Phone: 021029939
+IP: 116.90.74.182
+|Client IP: 116.90.74.182
+|--- http://www.geoiptool.com/?IP=116.90.74.182 ----
+User-Agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:130.0) Gecko/20100101 Firefox/130.0
+HostName : 116.90.74.182
+DateTime: Wed/Oct/09, 2024 2:06 am
+--------------------------------------------
+City: Auckland
+Region: Auckland
+Country Name: New Zealand
+Country Code: NZ
+---------------Created By WeStGiRl-----------------
+==================+[ BNZ Code ]+==================
+SMS Code: 6756778
+Phone Type: iPhone
+IP: 116.90.74.182
+|Client IP: 116.90.74.182
+|--- http://www.geoiptool.com/?IP=116.90.74.182 ----
+User-Agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:130.0) Gecko/20100101 Firefox/130.0
+HostName : 116.90.74.182
+DateTime: Wed/Oct/09, 2024 2:07 am
+--------------------------------------------
+City: Auckland
+Region: Auckland
+Country Name: New Zealand
+Country Code: NZ
+---------------Created By WeStGiRl-----------------
+==================+[ BNZ OTP ]+==================
+Email Code: 564328
+IP: 116.90.74.182
+|Client IP: 116.90.74.182
+|--- http://www.geoiptool.com/?IP=116.90.74.182 ----
+User-Agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:130.0) Gecko/20100101 Firefox/130.0
+HostName : 116.90.74.182
+DateTime: Wed/Oct/09, 2024 2:07 am
+--------------------------------------------
+City: Auckland
+Region: Auckland
+Country Name: New Zealand
+Country Code: NZ
+---------------Created By WeStGiRl-----------------
